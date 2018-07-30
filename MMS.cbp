@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MMS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="choice_of_function\;handle_of_commodity\;register_login\;mess\;page\;info_change\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="add_comm.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="handle_of_commodity/" />
+		</Unit>
+		<Unit filename="admin_login.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="admin_login_login.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="admin_main.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="choice_of_function/" />
+		</Unit>
+		<Unit filename="admin_register.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="admin_unsubscribe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buy_product.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buy_record.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="change_comm.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="handle_of_commodity/" />
+		</Unit>
+		<Unit filename="color_change.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="count_mes.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="mess/" />
+		</Unit>
+		<Unit filename="cus_login.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="cus_login_login.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="cus_main.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="choice_of_function/" />
+		</Unit>
+		<Unit filename="cus_register.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="register_login/" />
+		</Unit>
+		<Unit filename="cus_unsubscribe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="del_comm.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="handle_of_commodity/" />
+		</Unit>
+		<Unit filename="drawBorder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="drawInBorder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="drawTitle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="goToXY.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hideCursor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="info_change.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="info_change/" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mms.h" />
+		<Unit filename="out_file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="page_down.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="page/" />
+		</Unit>
+		<Unit filename="page_up.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="page/" />
+		</Unit>
+		<Unit filename="progressBar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="receive_mes.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="mess/" />
+		</Unit>
+		<Unit filename="search_comm.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="handle_of_commodity/" />
+		</Unit>
+		<Unit filename="send_mes.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="mess/" />
+		</Unit>
+		<Unit filename="show_page.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="page/" />
+		</Unit>
+		<Unit filename="sort_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="start.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="switch_admin.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="choice_of_function/" />
+		</Unit>
+		<Unit filename="switch_cus.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="choice_of_function/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

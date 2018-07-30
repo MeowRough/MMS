@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1532846846 source:d:\cpp\mms\main.c
+	"mms.h"
+
+1532913877 source:d:\cpp\mms\start.c
+	"mms.h"
+
+1532917126 d:\cpp\mms\mms.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1532746142 source:d:\cpp\mms\admin_login.c
+	"mms.h"
+
+1532913877 source:d:\cpp\mms\admin_login_login.c
+	"mms.h"
+
+1532914771 source:d:\cpp\mms\admin_main.c
+	"mms.h"
+
+1532914919 source:d:\cpp\mms\admin_register.c
+	"mms.h"
+
+1532746142 source:d:\cpp\mms\cus_login.c
+	"mms.h"
+
+1532913877 source:d:\cpp\mms\cus_login_login.c
+	"mms.h"
+
+1532852071 source:d:\cpp\mms\cus_main.c
+	"mms.h"
+
+1532847071 source:d:\cpp\mms\cus_register.c
+	"mms.h"
+
+1532744050 source:d:\cpp\mms\drawborder.c
+	"mms.h"
+
+1532744049 source:d:\cpp\mms\drawtitle.c
+	"mms.h"
+
+1532744049 source:d:\cpp\mms\gotoxy.c
+	"mms.h"
+
+1532827861 source:d:\cpp\mms\progressbar.c
+	"mms.h"
+
+1532914771 source:d:\cpp\mms\switch_admin.c
+	"mms.h"
+
+1532913877 source:d:\cpp\mms\switch_cus.c
+	"mms.h"
+
+1532917279 source:d:\cpp\mms\add_comm.c
+	"mms.h"
+
+1532827400 source:d:\cpp\mms\change_comm.c
+	"mms.h"
+
+1532772935 source:d:\cpp\mms\del_comm.c
+	"mms.h"
+
+1532746268 source:d:\cpp\mms\hidecursor.c
+	"mms.h"
+
+1532760413 source:d:\cpp\mms\progressbar2.0.c
+	"mms.h"
+
+1532915690 source:d:\cpp\mms\color_change.c
+	"mms.h"
+
+1532827252 source:d:\cpp\mms\count_mes.c
+	"mms.h"
+
+1532827252 source:d:\cpp\mms\drawinborder.c
+	"mms.h"
+
+1532914266 source:d:\cpp\mms\page_down.c
+	"mms.h"
+
+1532914266 source:d:\cpp\mms\page_up.c
+	"mms.h"
+
+1532846847 source:d:\cpp\mms\receive_mes.c
+	"mms.h"
+
+1532831684 source:d:\cpp\mms\send_mes.c
+	"mms.h"
+
+1532914266 source:d:\cpp\mms\show_page.c
+	"mms.h"
+
+1532846846 source:d:\cpp\mms\buy_product.c
+	"mms.h"
+
+1532831863 source:d:\cpp\mms\pass_change.c
+	"mms.h"
+
+1532846846 source:d:\cpp\mms\buy_record.c
+	"mms.h"
+
+1532831863 source:d:\cpp\mms\push_change.c
+	"mms.h"
+
+1532834976 source:d:\cpp\mms\info_admin.c
+	"mms.h"
+
+1532837419 source:d:\cpp\mms\info_change.c
+	"mms.h"
+
+1532846846 source:d:\cpp\mms\admin_unsubscribe.c
+	"mms.h"
+
+1532846846 source:d:\cpp\mms\cus_unsubscribe.c
+	"mms.h"
+
+1532851476 source:d:\cpp\mms\sort_search.c
+	"mms.h"
+
+1532914361 source:d:\cpp\mms\search_comm.c
+	"mms.h"
+
+1532915910 source:d:\cpp\mms\out_file.c
+	"mms.h"
+
+1532913877 source:d:\cpp\mms\sales_ranking_query.c
+	"mms.h"
+
+1532917712 source:d:\cpp\mms\vault.c
+	"mms.h"
+
